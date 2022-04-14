@@ -1,3 +1,5 @@
+﻿
+
 # Einkaufsliste
 Das ist ein Repository zum testen von Repositorys
 
@@ -5,6 +7,8 @@ Das ist ein Repository zum testen von Repositorys
 # Lebenslauf
 Note: C:\Users\nicol\eclipse-workspace-HFU\Eigenes_Projekt\src\Lebenslauf.java uses unchecked or unsafe operations.
 Note: Recompile with -Xlint:unchecked for details.
+
+![Nicolas_Mahn](https://user-images.githubusercontent.com/64785342/163365974-df1261ef-5e22-4fd9-99a3-0913249095c2.JPG)
 
 -------------------------------------------------------------------------------------------------------------
 ### PERSÖNLICHE DATEN
