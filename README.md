@@ -7,7 +7,7 @@ Note: C:\Users\nicol\eclipse-workspace-HFU\Eigenes_Projekt\src\Lebenslauf.java u
 Note: Recompile with -Xlint:unchecked for details.
 
 -------------------------------------------------------------------------------------------------------------
-## PERSÖNLICHE DATEN
+### PERSÖNLICHE DATEN
 
 Adresse: Untere Brandstraße 62, 70567 Stuttgart
 E-Mail: Nicolas.Mahn@gmx.de
@@ -17,7 +17,7 @@ Name: Nicolas Mahn
 
 
 -------------------------------------------------------------------------------------------------------------
-## BILDUNGSWEG
+### BILDUNGSWEG
 
 Wirtschaftsinformatik Studium: Seit 09.2019
                                Hochschule Furtwangen (HFU) in Furtwangen im Schwarzwald
@@ -38,7 +38,7 @@ Gymnasium: Bis 2018
 
 
 -------------------------------------------------------------------------------------------------------------
-## STUDIUM
+### STUDIUM
 
 Wissenschaftliche Arbeit über Cyber Physical Hacks
         2 Semester
@@ -75,7 +75,7 @@ am Institut für Business Consulting (IBC) eine studentische Unternehmensberatun
 
 
 -------------------------------------------------------------------------------------------------------------
-## AUSLANDSAUFENTHALTE
+### AUSLANDSAUFENTHALTE
 
 In Sion Mills, Nordirland vom 03.2009 bis 07.2009
                           Besuch der Sion Mills Primary School
@@ -89,7 +89,7 @@ In Kampala, Uganda vom 08.2018 bis 08.2019
 
 
 -------------------------------------------------------------------------------------------------------------
-## ENGAGEMENT UND FREIZEIT
+### ENGAGEMENT UND FREIZEIT
 
 Deutsche Pfadfinderschaft Sankt Georg
 01.2017 - 07.2018 Jugendleiter
@@ -102,7 +102,7 @@ Computerspiele (Minecraft, AOE)
 
 
 -------------------------------------------------------------------------------------------------------------
-## QUALIFIKATIONEN
+### QUALIFIKATIONEN
 
 Fremdsprachen: Englisch       Eigene Bewertung: sehr gut
                Französisch    Eigene Bewertung: befriedigend
